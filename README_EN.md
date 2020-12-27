@@ -38,8 +38,8 @@
 
 ## Jump to the instructions for the corresponding tutorial
 
-- [Frist](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/README.md)
+- [Frist](https://github.com/TiyNa/LoonManual/blob/main/Frist/README.md)
 
-- [Plus](https://github.com/chiupam/tutorial/blob/master/Loon/Plus_EN/README.md)
+- [Plus](https://github.com/TiyNa/LoonManual/blob/main/Plus/README.md)
 
-- [Plus_EN](https://github.com/chiupam/tutorial/blob/master/Loon/Plus_EN/README_EN.md)
+- [Plus_EN](https://github.com/TiyNa/LoonManual/blob/main/Plus_EN/README_EN.md)
