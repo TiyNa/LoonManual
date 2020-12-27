@@ -38,8 +38,8 @@
 
 ## 跳转至对应教程的使用说明
 
-- [Frist](https://github.com/chiupam/tutorial/blob/master/Loon/Frist/README.md)
+- [Frist](https://github.com/TiyNa/LoonManual/blob/main/First/README.md)
 
-- [Plus](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md)
+- [Plus](https://github.com/TiyNa/LoonManual/blob/main/Plus/README.md)
 
-- [Plus_EN](https://github.com/chiupam/tutorial/blob/master/Loon/Plus_EN/README.md)
+- [Plus_EN](https://github.com/TiyNa/LoonManual/blob/main/Plus_EN/README.md)
