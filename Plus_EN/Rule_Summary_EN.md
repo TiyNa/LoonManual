@@ -37,7 +37,7 @@ The IP-based location information comes from GeoLite2 Country. The GeoLiteZ data
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) The user in the following figure initiates an access request to `www.google.com`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Ruld_Example.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Ruld_Example.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) In the `Strategy` column, `Proxy` represents the strategy and `[tunnel]香港01#GZCM` represents the proxy node
 

@@ -6,15 +6,15 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click the `Configuration` column below, click `Example`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Example.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Example.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Found `[Rule]`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Example_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Example_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Find the last line of code under `[Rule]` `FINAL,Final`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Example_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Example_2.jpg)
 
 ## Understanding of `FINAL, Final`
 
@@ -52,7 +52,7 @@
 
 When the configuration says `FINAL,Final`, the following types of `parent policy groups` can be made through the nesting between the `child-parent policy groups`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Final.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Final.jpg)
 
 As shown in the figure above, the user needs to manually preset the strategy to go when a fish slipping through the net appears. If the user chooses
 

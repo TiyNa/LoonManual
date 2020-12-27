@@ -6,7 +6,7 @@ By modifying the cron expression, execute the script regularly
 
 1, cron 6-digit expression
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/cron_6.png)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/cron_6.png)
 
 - From left to right
 
@@ -24,7 +24,7 @@ By modifying the cron expression, execute the script regularly
   
 2. Cron 5-digit expression
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/cron_5.png)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/cron_5.png)
 
 - From left to right
   

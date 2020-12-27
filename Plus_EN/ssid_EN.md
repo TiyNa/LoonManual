@@ -18,97 +18,97 @@ The operation steps are divided into two steps. The first step is to create a ne
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click on the `Configuration` column below
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on `Strategy Group`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click the upper right corner +
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Enter the name of the strategy group in the alias field, and it is recommended to enter the SSID
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Strategy Type`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) select `ssid`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `default`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_7.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) It is recommended to choose the proxy strategy group. For the reasons, please see the analysis below in this tutorial
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_8.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_8.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on `Cellular Data`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_9.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_9.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) It is recommended to choose an agent strategy group
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_10.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_10.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Add`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_11.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_11.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Enter the name of the router that the user has supported
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_12.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_12.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Then click `OK`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_13.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_13.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) select `DIRECT`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_14.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_14.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on the upper right corner `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_15.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_15.jpg)
 
 ### Change the policy group selection of subscription rules
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon, click on the `Configuration` column below
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Subscription Rules`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Select the branch that requires proxy, such as the `Global` branch in the figure. For the reason, please see the analysis below this tutorial
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Slide the rule to the left
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Edit`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on `Strategy`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Select the ssid strategy group you just created, that is, the strategy group named SSID
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_7.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Save` in the upper right corner
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_8.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_8.jpg)
 
 ## Say a few more words
 

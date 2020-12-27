@@ -16,31 +16,31 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click the `Configuration` column below, and click `Strategy Group`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Group.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on `Proxy`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) In the nesting between policy groups, `policy type` only allows to select `select`, confirm the right of `policy type` Is `select`, otherwise please modify this option
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Add`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) From the list of `strategy groups`, click on the `manual selection` strategy group
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Check below whether the `manual selection` strategy group is displayed, and then click `save` to complete the nesting operation
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_6.jpg)
 
 # Say a few more words
 

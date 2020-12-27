@@ -16,23 +16,23 @@ Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ne
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `select`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on ʻurl-test`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Fill in the alias of the strategy group according to the user's personal preference, the test interval unit is `second`, modify according to the user's personal habits, generally No need to modify
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) The `tolerance` column is set according to the user's personal preference and the general delay of the proxy server provider. The calculation method has been introduced above, Self-understanding and self-setting
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_9.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_9.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Test-URL` generally does not need to be modified
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_4.jpg)
 
 ## Three, add agent node
 
@@ -40,19 +40,19 @@ Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ne
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) After following the first step, click `Add`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Select the filtered node from the list of `Filter subscription nodes`, it is strictly forbidden to select from the list of `Subscribe nodes`, otherwise There will be a Loon warning, or even a proxy server provider’s account, and other serious consequences
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_7.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Make sure there is a number in the `()` of `Filter` under `Subscription Filter` and click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_8.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_8.jpg)
 
 # Say a few more words
 

@@ -26,29 +26,29 @@ Users can add a self-built server through the `single node` button. A node repre
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click the `Configuration` column below, and click `Single node`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_UI_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_UI_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on the area shown in the upper right corner (+)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_UI_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_UI_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Direct` on the right side of the agreement
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_UI_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_UI_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Select the required protocol and click to enter the configuration
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_UI_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_UI_4.jpg)
 
 # The second method: by writing in the `configuration file` or `text editor`
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click the `Configuration` bar below, and click `Text Edit`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Conf_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Find `[Proxy]` and write in the next line
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Conf_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Conf_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) The format is as follows
 

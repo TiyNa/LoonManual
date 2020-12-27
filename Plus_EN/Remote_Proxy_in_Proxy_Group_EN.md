@@ -12,11 +12,11 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click the `Configuration` column below, and click `Strategy Group`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Group.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click the policy group that needs to add the agent node, as shown in the figure below, the `manual selection` policy group as an example, click Manual selection`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Proxy_in_Proxy_Group_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Proxy_in_Proxy_Group_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click and set `Policy Type`, divided into 4 cases
 
@@ -34,19 +34,19 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Take the strategy type selection `select` as an example, click `Add`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Select_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Select the required `subscription node` or `filter subscription node from the list of `subscription nodes` or `filter subscription nodes` `, Click on the name
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Select_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Select_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Make sure there is a number in the `()` of `Filter` under `Subscription Filter` and click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Select_4.jpg)
 
 # Say a few more words
 

@@ -8,15 +8,15 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Take the example of subscribing to the rules of `China.list` (domestic rules), click on `China.list`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_Raw_China_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_Raw_China_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Raw`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_Raw_China_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_Raw_China_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `copy`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_Raw_China_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_Raw_China_3.jpg)
 
 ## Second, confirm the selected strategy of `Subscription Rules`
 
@@ -37,27 +37,27 @@ Because `China.list` is a Chinese rule, the strategy selection here is `DIRECT` 
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon, click on the `Configuration` tab below, and click `Subscription Rules`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_remote_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on the area shown in the figure below (+)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_remote_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Paste the copied/copied address above to ʻURL` and fill in the branch alias
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_China_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_remote_China_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `DIRECT`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_China_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_remote_China_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) select `DIRECT`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_China_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_remote_China_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_remote_China_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_remote_China_6.jpg)
 
 ## Fourth, the order of subscription rules
 

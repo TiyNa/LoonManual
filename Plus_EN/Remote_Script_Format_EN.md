@@ -34,12 +34,12 @@ https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Remote_Script_Exampl
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on the file that needs to subscribe to the script
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script_Raw_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Script_Raw_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click Raw
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script_Raw_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Script_Raw_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Long press the address bar and click `copy`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script_Raw_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Script_Raw_3.jpg)

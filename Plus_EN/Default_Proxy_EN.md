@@ -8,7 +8,7 @@ Proxy policy group, that is, the policy group nested in the policy group `subscr
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) For example: in the figure below, because the `manual selection` strategy group has nodes, the strategy group named `manual selection` It can be called an agent strategy group.
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Default_Proxy.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Default_Proxy.jpg)
 
 ## Add a `Proxy Policy Group`
 

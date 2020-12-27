@@ -10,19 +10,19 @@ Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ne
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `select`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on `Fallback`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Fallback_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Fallback_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Fill in the alias of the strategy group according to the user’s personal preference, the unit of the `test interval` is `second`, the maximum timeout is The unit is `milliseconds`, modified according to the user's personal habits, it is recommended that `max timeout` be changed to `1000`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Fallback_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Fallback_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Test-URL` generally does not need to be modified
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Fallback_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Fallback_3.jpg)
 
 ## Three, add agent node
 
@@ -30,19 +30,19 @@ Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ne
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) After following the first step, click `Add`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Fallback_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Fallback_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Select the filtered node from the list of `Filter subscription nodes`, it is strictly forbidden to select from the list of `Subscribe nodes`, otherwise There will be a Loon warning, or even a proxy server provider’s account, and other serious consequences
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Fallback_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Fallback_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Fallback_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Fallback_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Make sure there is a number in the `()` of `Filter` under `Subscription Filter` and click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Fallback_7.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Fallback_7.jpg)
 
 # Say a few more words
 

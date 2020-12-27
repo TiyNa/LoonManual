@@ -28,93 +28,93 @@ A: It can be achieved through the `Network Sharing` function.
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open the Loon interface and click on the designated area on the right of `Shortcut`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Long press the designated area on the right side of `Network Sharing` under the `Invisible` list, and drag it to the bottom of the `Visible` list
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_A_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Make sure that the `Visible` list appears `Network Sharing`, and then click `Return`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_A_2.jpg)
 
 ## 2. Operation steps on A device that has downloaded Loon
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click the card switch of `Network Sharing` on the Loon interface to enable the `Network Sharing` function
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_A_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Be sure to record the **gray ip address (ie server)** under the `Network Sharing` card, and here No `⛔️` emoticon pack appears
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_A_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click the `Network Sharing` card in the Loon interface
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_A_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Be sure to record the `HTTP proxy port`, and then please continue
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_A_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_A_6.jpg)
 
 ## Three, the operation steps of the B device without downloading Loon
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open the `Settings` in the B device, click Wireless LAN / Wi-Fi to enable the wireless LAN / Wi-Fi function
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_B_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Connect to the same wireless LAN / Wi-Fi as device A
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_B_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on the area as shown
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_B_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Find the `HTTP proxy` list and click on `Configure proxy`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_B_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Select `Manual`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_B_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) In the `Server` column, fill in the `gray ip address` under the `Network Sharing` card in the Loon of Device A
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_B_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) In the `Port` field, fill in the `HTTP proxy port` in the `Network Sharing` card in the Loon of A device
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_7.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_B_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `storage` to realize the scientific Internet access of device B
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Network_Sharing_B_8.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Network_Sharing_B_8.jpg)
 
 ## Special equipment-Windows 10
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open the `Start` button of Windows 10
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_1.png)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Windows_1.png)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click the `Settings` button
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Windows_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Network and Internet`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Windows_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on `Proxy`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Windows_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Fill in the ʻip address` in the `address` field under the list of `manually set proxy` and fill in the `port` field `HTTP proxy port`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_5.png)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Windows_5.png)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Windows_6.png)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Windows_6.png)
 
 # Say a few more words
 

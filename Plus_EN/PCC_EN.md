@@ -10,23 +10,23 @@ Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ne
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `select`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/URL-Test_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/URL-Test_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `load-balance`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/PCC_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/PCC_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on `random`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/PCC_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/PCC_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on `pcc`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/PCC_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/PCC_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Generally, `Test-URL` does not need to be modified. The unit of `test interval` is `seconds`, and `max timeout` The unit is `milliseconds`, modified according to the user's personal habits, it is recommended that `max timeout` be changed to `1000`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/PCC_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/PCC_4.jpg)
 
 ## Three, add agent node
 
@@ -34,19 +34,19 @@ Please click [here](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Ne
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) After following the first step, click `Add`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/PCC_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/PCC_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Select the filtered node from the list of `Filter subscription nodes`, it is strictly forbidden to select from the list of `Subscribe nodes`, otherwise There will be a Loon warning, or even a proxy server provider’s account, and other serious consequences
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/PCC_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/PCC_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/PCC_7.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/PCC_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Make sure there is a number in the `()` of `Filter` under `Subscription Filter` and click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/PCC_8.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/PCC_8.jpg)
 
 # Say a few more words
 

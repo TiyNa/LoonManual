@@ -8,7 +8,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Read the configuration code in the script file, as shown in the code of `http-request` under `[Script]` in the figure below
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JD-DailyBonus_http-request.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JD-DailyBonus_http-request.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Disassemble this configuration code according to the three script statement formats, ** clarify where you can modify and where you cannot. modify**
 
@@ -30,45 +30,45 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click the `Configuration` column below, and click `Add script`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on the area as shown (+)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script_1.jpg)
 
 **Take adding http-request statement as an example**
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Script Type`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) select `http-request`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Write the script name in the `alias` column, name it according to the user's personal preference, preferably named after the script function
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Write the regular expression that matches the URL execution script in the `Expression` column, that is, `https:\/\/api \.m\.jd\.com\/client\.action.*functionId=signBean`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Script location`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) select `Remote`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script_7_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script_7_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Write the script remote link in the `Script link` column, namely `https://raw.githubusercontent.com/NobyDa/ Script/master/JD-DailyBonus/JD_DailyBonus.js`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script_8_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script_8_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) The correct wording is as shown in the figure below. After confirming that it is correct, click `Save` to complete the operation
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script_10_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script_10_2.jpg)
 
 # Say a few more words
 

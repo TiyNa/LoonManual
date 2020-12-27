@@ -72,19 +72,19 @@ Currently, there are mainly the following script developers sorted out, in no pa
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Take the Beijing Tokyo Dou check-in script as an example. The script was developed by NobyDa (野比), because the script configuration instructions are written in the script file Inside, so first open [Script File](https://github.com/NobyDa/Script/tree/master/JD-DailyBonus)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_1_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click Raw. This step is an important step. If the script configuration instructions are written in the script file, you need to click Raw to view
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_1_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Read the description at the beginning of the script file, look for related words such as `Loon configuration`, and clarify how to write in the configuration file in Loon Statement
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_1_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Look for words related to `instructions` to facilitate users to write script configuration code into Loon configuration and continue operation
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_1_4.jpg)
 
 # Say a few more words
 

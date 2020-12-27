@@ -16,37 +16,37 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click the `Configuration` column below, and click `Local script`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click the script that needs to be modified, **here to get the Jingdong Cookie script as an example**
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_1_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_1_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click the right area of ​​the setting bar to be modified to modify the information in this column
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_1_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_1_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Save` after completing the settings
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_1_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_1_3.jpg)
 
 ## Modify the alias, expression and script location of the script type as cron
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click the `Configuration` column below, and click `Local script`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on the script that needs to be modified, **here is the Jingdong all-in-one sign-in script as an example**
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_2_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_2_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click the right area of ​​the setting bar to be modified to modify the information in this column
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_2_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_2_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) After completing the settings, click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_2_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_2_3.jpg)
 
 # Say a few more words
 

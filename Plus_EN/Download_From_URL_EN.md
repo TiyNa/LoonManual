@@ -26,49 +26,49 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open the script file
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_1_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click Raw
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_1_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_1_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Long press the address bar to copy the address
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Download_From_URL_1.jpg)
  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Open Loon and click the `Configuration` bar below, and click `Local JS file`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Download_From_URL.jpg)
  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on the area as shown (+)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Download_From_URL_2.jpg)
  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) select `download from URL`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Download_From_URL_3.jpg)
  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Paste the copied/copied address above into the area as shown
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Download_From_URL_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Select `OK`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Download_From_URL_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click `Save`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Download_From_URL_6.jpg)
 
 ## Other function buttons
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Backup script` function is to upload the script in the local script list to the **iCloud/Loon/Script** folder Inside
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_Backup.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Download_From_URL_Backup.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) The function of `recover script` is to display the scripts in the **iCloud/Loon/Script** folder in the local script In the list
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Download_From_URL_Restore.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Download_From_URL_Restore.jpg)
 
 # Say a few more words
 

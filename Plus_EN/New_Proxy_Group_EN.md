@@ -12,11 +12,11 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on `Strategy Group`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Group.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Click on the area shown in the figure below (+)
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Group_2.jpg)
 
 ## Please jump to the tutorial for follow-up operations
 
