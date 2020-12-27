@@ -14,7 +14,7 @@
 
 ## 订阅步骤
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 请参考 [订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Rule.md) 教程
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 请参考 [订阅规则](https://github.com/TiyNa/LoonManual/blob/main/Plus/Remote_Rule.md) 教程
 
 # 鸣谢
 

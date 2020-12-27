@@ -76,7 +76,7 @@ cron "0 8 * * *" script-path=cron.js,tag = responseScript,enable=true
 
  - `cron` <===> 固定格式，不可修改，表明语句类型
   
- - `"0 8 * * *"` <===> cron 表达式，脚本执行时间，根据用户需求自行修改，如果未了解 `cron 表达式` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md) 跳转到 `基础 cron 表达式的学习` 教程
+ - `"0 8 * * *"` <===> cron 表达式，脚本执行时间，根据用户需求自行修改，如果未了解 `cron 表达式` ，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/cron.md) 跳转到 `基础 cron 表达式的学习` 教程
   
  - `script-path=` <===> 固定格式，不可修改，后接脚本路径
   

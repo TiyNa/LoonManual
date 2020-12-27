@@ -16,6 +16,6 @@
 
 - 传送门
 
-  - [CA证书](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/CA.md)
+  - [CA证书](https://github.com/TiyNa/LoonManual/blob/main/Plus/CA.md)
 
-  - [hostname](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/hostname.md)
+  - [hostname](https://github.com/TiyNa/LoonManual/blob/main/Plus/hostname.md)

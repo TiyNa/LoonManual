@@ -50,4 +50,4 @@
 
 # 多说几句
 
-- 因为此处可供修改的信息过多，此教程就不再赘述，用户自行研究脚本语句格式也可以明晰应该如何修改哪些信息，对脚本格式不清楚的用户，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) 跳转到 `入门 —— 如何看懂三种脚本语句的必备格式` 教程
+- 因为此处可供修改的信息过多，此教程就不再赘述，用户自行研究脚本语句格式也可以明晰应该如何修改哪些信息，对脚本格式不清楚的用户，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/JaveScript_Format.md) 跳转到 `入门 —— 如何看懂三种脚本语句的必备格式` 教程

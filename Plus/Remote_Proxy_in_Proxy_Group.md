@@ -4,7 +4,7 @@ s# 节点与策略组之间的嵌套
 
 ## 一、初步设置
 
-- 用户未曾添加一个策略组作为 `代理策略组` 嵌套节点，，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md) 跳转 `新建子策略组` 教程学习如何添加一个策略组
+- 用户未曾添加一个策略组作为 `代理策略组` 嵌套节点，，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/New_Proxy_Group.md) 跳转 `新建子策略组` 教程学习如何添加一个策略组
 
 - 用户已经成功添加一个策略组作为 `代理策略组` 嵌套节点，请继续浏览以下教程
 
@@ -24,11 +24,11 @@ s# 节点与策略组之间的嵌套
 
 - 如果用户希望策略组发挥以下作用时，请点击对应的教程并浏览跳转教程中的第二步以及第三步的操作
 
-  - 自动选择最低延迟节点时，即策略类型选择 `url-test` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/URL-Test.md) 跳转到 `URL-Test 策略组的设置` 教程，浏览跳转教程第二步以及第三步的操作
+  - 自动选择最低延迟节点时，即策略类型选择 `url-test` ，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/URL-Test.md) 跳转到 `URL-Test 策略组的设置` 教程，浏览跳转教程第二步以及第三步的操作
 
-  - 自动选择可用节点时，即策略类型选择 `fallback` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Fallback.md) 跳转到 `Fallback 策略组的设置` 教程，浏览跳转教程第二步以及第三步的操作
+  - 自动选择可用节点时，即策略类型选择 `fallback` ，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Fallback.md) 跳转到 `Fallback 策略组的设置` 教程，浏览跳转教程第二步以及第三步的操作
 
-  - 符合预设条件的节点自动对同一主机名的请求锁定同意节点时，即策略类型选择 `load-balance` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/PCC.md) 跳转到 `PCC 策略组的设置` 教程，浏览跳转教程第二步以及第三步的操作
+  - 符合预设条件的节点自动对同一主机名的请求锁定同意节点时，即策略类型选择 `load-balance` ，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/PCC.md) 跳转到 `PCC 策略组的设置` 教程，浏览跳转教程第二步以及第三步的操作
 
 ## 二、仅供策略类型选择 `select` 时浏览
 
@@ -52,6 +52,6 @@ s# 节点与策略组之间的嵌套
 
 - 仅当策略类型选择 `select` 时才可以从 `订阅节点` 列表下选择，其余策略类型都严厉禁止从 `订阅节点` 列表中选择
 
-- 用户对 `代理策略组` 感兴趣的话，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md) 跳转到 `代理策略组` 教程
+- 用户对 `代理策略组` 感兴趣的话，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Default_Proxy.md) 跳转到 `代理策略组` 教程
 
 

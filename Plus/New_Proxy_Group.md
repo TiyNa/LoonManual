@@ -20,6 +20,6 @@ s# 手动添加一个策略组
 
 ## 后续操作请跳转教程
 
-- 如果用户希望添加的策略组嵌套其他策略组成为 `子策略组` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Matryoshka.md) 跳转到 `子母策略组之间的嵌套` 教程 
+- 如果用户希望添加的策略组嵌套其他策略组成为 `子策略组` ，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Matryoshka.md) 跳转到 `子母策略组之间的嵌套` 教程 
 
-- 如果用户希望在添加的策略组内添加 `订阅节点` 或者 `筛选订阅节点` 成为 `代理策略组` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Proxy_Group.md) 跳转到 `节点与策略组之间的嵌套` 教程
+- 如果用户希望在添加的策略组内添加 `订阅节点` 或者 `筛选订阅节点` 成为 `代理策略组` ，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Remote_Proxy_in_Proxy_Group.md) 跳转到 `节点与策略组之间的嵌套` 教程

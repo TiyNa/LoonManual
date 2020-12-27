@@ -12,7 +12,7 @@ s# 添加远程链接脚本
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 按照三种脚本语句格式拆解这段配置代码，**明晰哪些地方可以自行修改，哪些地方不可自行修改**
 
-**如果用户对三种脚本语句格式不了解，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) 跳转到 `入门 —— 如何看懂三种脚本语句的必备格式` 教程**
+**如果用户对三种脚本语句格式不了解，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/JaveScript_Format.md) 跳转到 `入门 —— 如何看懂三种脚本语句的必备格式` 教程**
 
 - 用户不可自行修改的项目与填写位置
 

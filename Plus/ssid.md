@@ -6,9 +6,9 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Loon 内置的 ssid 策略组的嵌套有一定的理解难度，此教程需要用户明白规则的作用、代理策略组的概念，下方提供教程链接
 
-- [何为规则](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Rule_Summary.md)
+- [何为规则](https://github.com/TiyNa/LoonManual/blob/main/Plus/Rule_Summary.md)
 
-- [代理策略组](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Default_Proxy.md)
+- [代理策略组](https://github.com/TiyNa/LoonManual/blob/main/Plus/Default_Proxy.md)
 
 ## 操作步骤
 

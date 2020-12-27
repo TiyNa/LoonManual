@@ -4,7 +4,7 @@
 
 ## 从 URL 下载脚本文件到 icloud/Loon/Script
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md) 跳转到 `添加脚本文件 - 从URL下载` 教程
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Download_From_URL.md) 跳转到 `添加脚本文件 - 从URL下载` 教程
 
 ## 充分理解脚本文件内配置代码
 
@@ -16,7 +16,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 按照三种脚本语句格式拆解这段配置代码，**明晰哪些地方可以自行修改，哪些地方不可自行修改**
 
-**如果用户对三种脚本语句格式不了解，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/JaveScript_Format.md) 跳转到 `入门 —— 如何看懂三种脚本语句的必备格式` 教程**
+**如果用户对三种脚本语句格式不了解，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/JaveScript_Format.md) 跳转到 `入门 —— 如何看懂三种脚本语句的必备格式` 教程**
 
 - 用户不可自行修改的项目与填写位置
 
@@ -78,8 +78,8 @@
 
 # 多说几句
 
-- Loon 是开放远程脚本链接的，如果用户不需要修改脚本文件内代码，极力推荐学习 `添加远程链接脚本` 教程以及使用 `添加远程链接脚本` 功能，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_JaveScript.md) 跳转到 `添加远程链接脚本` 教程
+- Loon 是开放远程脚本链接的，如果用户不需要修改脚本文件内代码，极力推荐学习 `添加远程链接脚本` 教程以及使用 `添加远程链接脚本` 功能，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Remote_JaveScript.md) 跳转到 `添加远程链接脚本` 教程
 
-- 再次强调，此教程的前提是需要用户提前通过 `从URL下载` 功能将脚本下载到 icloud/Loon/Script 文件夹内并在 Loon 开启 `自动同步` 功能，如果用户还没有进行操作此步，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Download_From_URL.md) 跳转到 `添加脚本文件 - 从URL下载` 教程
+- 再次强调，此教程的前提是需要用户提前通过 `从URL下载` 功能将脚本下载到 icloud/Loon/Script 文件夹内并在 Loon 开启 `自动同步` 功能，如果用户还没有进行操作此步，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Download_From_URL.md) 跳转到 `添加脚本文件 - 从URL下载` 教程
 
 

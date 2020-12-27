@@ -36,7 +36,7 @@
 
 # 多说几句
 
-- 如果未了解 `cron 表达式` ，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/cron.md) 跳转到 `基础 cron 表达式的学习` 教程
+- 如果未了解 `cron 表达式` ，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/cron.md) 跳转到 `基础 cron 表达式的学习` 教程
 
 # 鸣谢
 

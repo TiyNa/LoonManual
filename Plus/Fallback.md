@@ -4,7 +4,7 @@
 
 ## 一、进入 `策略组` 添加策略组
 
-请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/New_Proxy_Group.md) 跳转到 `手动添加一个策略组` 教程，完成操作后返回设置 `Fallback` 教程
+请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/New_Proxy_Group.md) 跳转到 `手动添加一个策略组` 教程，完成操作后返回设置 `Fallback` 教程
 
 ## 二、设置 `策略类型`
 
@@ -54,4 +54,4 @@
 
 - `筛选订阅节点` 内也不允许有过多的节点，建议低于 `5` 个，否则也容易出现 Loon 警告，甚至是代理服务器提供商封号等严重后果
 
-- 如果不会利用正则表达式筛选适合的节点，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Regex.md) 跳转学习正则表达式
+- 如果不会利用正则表达式筛选适合的节点，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Regex.md) 跳转学习正则表达式

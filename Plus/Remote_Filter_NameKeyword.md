@@ -6,7 +6,7 @@
 
 ## 一、订阅节点
 
-如果没有订阅节点，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy.md) 跳转到 `订阅节点` 教程
+如果没有订阅节点，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Remote_Proxy.md) 跳转到 `订阅节点` 教程
 
 ## 二、筛选订阅节点
 

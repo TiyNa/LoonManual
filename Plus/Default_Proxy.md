@@ -12,7 +12,7 @@
 
 ## 添加一个 `代理策略组`
 
-实际上就是 `节点与策略组之间的嵌套` 教程里面的操作方法，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Proxy_in_Proxy_Group.md) 跳转到 `节点与策略组之间的嵌套` 教程
+实际上就是 `节点与策略组之间的嵌套` 教程里面的操作方法，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Remote_Proxy_in_Proxy_Group.md) 跳转到 `节点与策略组之间的嵌套` 教程
 
 # 多说几句
 

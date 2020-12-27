@@ -47,7 +47,7 @@
 
 # 多说几句
 
-- 兜底匹配，FINAL规则，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Final.md) 跳转到 `Final规则` 教程
+- 兜底匹配，FINAL规则，请点击 [这里](https://github.com/TiyNa/LoonManual/blob/main/Plus/Final.md) 跳转到 `Final规则` 教程
 
 # 参考
 
