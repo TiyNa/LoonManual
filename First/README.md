@@ -31,10 +31,10 @@
 
 ### 设置步骤（请用户严格按步骤进行操作！）
 
-1、[订阅节点](https://github.com/chiupam/tutorial/blob/master/Loon/First/First.md)
+1、[订阅节点](https://github.com/TiyNa/LoonManual/blob/main/First/First.md)
 
-2、[新建策略组](https://github.com/chiupam/tutorial/blob/master/Loon/First/Second.md)
+2、[新建策略组](https://github.com/TiyNa/LoonManual/blob/main/First/Second.md)
 
-3、[订阅规则](https://github.com/chiupam/tutorial/blob/master/Loon/First/Third.md)
+3、[订阅规则](https://github.com/TiyNa/LoonManual/blob/main/First/Third.md)
 
-4、[开启连接](https://github.com/chiupam/tutorial/blob/master/Loon/First/Fourth.md)
+4、[开启连接](https://github.com/TiyNa/LoonManual/blob/main/First/Fourth.md)
