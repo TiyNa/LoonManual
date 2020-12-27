@@ -4,6 +4,10 @@
 
 - Please read the disclaimer carefully, any reader who clicks on the document in the tutorial will be deemed to have accepted this disclaimer
 
+### Language
+
+|[中文](https://github.com/TiyNa/LoonManual/blob/main/README.md)|[English](https://github.com/TiyNa/LoonManual/blob/main/README_EN.md)|
+
 ### Disclaimer
 
 - This tutorial is only for users who purchased the genuine Loon to learn how to use this software. I have never provided airport services or instigated mainland users to establish and use non-statutory channels for international networking without authorization.
