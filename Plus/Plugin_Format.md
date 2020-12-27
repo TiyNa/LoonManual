@@ -34,7 +34,31 @@ hostname = *.example.com,*.sample.com
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 直接点击下方的地址，查看 URL 的内容的正确格式写法
 
-https://raw.githubusercontent.com/chiupam/Proxy/master/Loon/Plugin_Example.conf
+```
+[Rule]
+DOMAIN-KEYWORD,baidu,DIRECT
+
+[URL Rewrite]
+^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
+
+[Script]
+# 京东京豆签到脚本
+
+cron "5 0 * * *" tag=京东多合一签到, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+http-request https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean tag=获取京东Cookie, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+
+# 京东东东农场脚本
+
+cron "5 6-18/6 * * *" script-path=https://raw.githubusercontent.com/lxk0301/scripts/master/jd_fruit.js,tag=东东农场
+
+# 美团签到脚本
+http-request ^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/entry script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.cookie.js
+http-request ^https:\/\/promotion.waimai.meituan.com\/playcenter\/signIn\/doaction script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.cookie.js,requires-body=true
+cron "10 0 0 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js
+
+[MITM]
+hostname = api.m.jd.com,promotion.waimai.meituan.com
+```
 
 ## 四、获取正确的 URL 链接的方法
 
