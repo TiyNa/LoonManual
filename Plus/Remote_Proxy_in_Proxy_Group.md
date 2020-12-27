@@ -1,4 +1,4 @@
-# 节点与策略组之间的嵌套
+s# 节点与策略组之间的嵌套
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 将代理节点添加到策略组下，实现代理功能，实际上就是让该策略组成为一个 `代理策略组`
 
@@ -12,11 +12,11 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `策略组`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Group.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击需要添加代理节点的策略组，以下图所示中的 `手动选择` 策略组为例，点击 `手动选择`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Proxy_in_Proxy_Group_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Proxy_in_Proxy_Group_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击并设置 `策略类型` ，分成 4 种情况 
 
@@ -34,19 +34,19 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 以策略类型选择 `select` 为例，点击 `添加`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Select_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `订阅节点` 或者 `筛选订阅节点` 的列表下选择需要的`订阅节点` 或者 `筛选订阅节点` ，点击名称
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Select_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `储存`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Select_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 确保 `订阅筛选` 下 `筛选` 的 `()` 内有数字后点击 `保存`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Select_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Select_4.jpg)
 
 # 多说几句
 

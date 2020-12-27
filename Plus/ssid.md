@@ -18,97 +18,97 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon，点击下方 `配置` 栏
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `策略组`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击右上角 +
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在别名栏输入策略组名称，推荐输入 SSID 即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `策略类型`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择 `ssid`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `默认`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_7.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 推荐选择代理策略组，原因请看本教程下面的解析
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_8.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_8.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `蜂窝数据`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_9.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_9.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 推荐选择代理策略组
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_10.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_10.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `添加`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_11.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_11.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 输入用户已扶墙的路由器名称
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_12.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_12.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 然后点击 `确定`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_13.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_13.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择 `DIRECT`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_14.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_14.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击右上角 `保存`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_1_15.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_1_15.jpg)
 
 ### 更改订阅规则的策略组选择
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开Loon，点击下方 `配置` 栏
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `订阅规则`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择需要代理的分流，例如图示中的 `Global` 分流，原因请看本教程下面的解析
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 左滑该规则
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `编辑`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `策略`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择刚刚创建的 ssid 策略组，即名为 SSID 的策略组
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_7.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击右上角 `保存`即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/ssid_2_8.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid_2_8.jpg)
 
 ## 多说几句
 

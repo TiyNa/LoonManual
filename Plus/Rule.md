@@ -10,35 +10,35 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `单个规则`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击如图所示区域（+）
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `类型`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择 `DOMAIN-KEYWORD`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `策略`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 选择 `DIRECT`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `IP/Url/Regex` 并填入 `baidu`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 确保 `类型` 栏出现 `DOMAIN-KEYWORD` 字样后，点击 `存储` 即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Rule_7.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Rule_7.jpg)
 
 # 多说几句
 

@@ -6,19 +6,19 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 其实 `母策略组` 非常容易辨认，打开 Loon 点击下方 `配置` 栏，点击 `订阅规则`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/TOP_Policy_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/TOP_Policy_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 查看每个订阅的规则左下角蓝色字体的名称，除 `DIRECT` 和 `REJECT` 的名称外，剩下名称的策略组就为 `母策略组`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/TOP_Policy_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/TOP_Policy_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 点击下方 `配置` 栏，点击 `策略组`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Group.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 查看名称为 `𝐏𝐫𝐨𝐱𝐲` 的母策略组，可以看到 `𝐏𝐫𝐨𝐱𝐲` 的母策略组下有 `手动选择`、`优选低延迟`、`健康检测` 三个子策略组
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/TOP_Policy_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/TOP_Policy_3.jpg)
 
 # 多说几句
 

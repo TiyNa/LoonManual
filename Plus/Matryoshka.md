@@ -16,31 +16,31 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `策略组`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Group.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `Proxy` 
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 策略组之间的嵌套中 `策略类型` 只允许选择 `select` ，确认 `策略类型` 右侧为 `select` ，否则请修改此选项
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `添加`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 从 `策略组` 列表下点击 `手动选择` 策略组
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `存储`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在下方查看 `手动选择` 策略组是否有显示，然后点击 `保存` 即可完成嵌套操作
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Matryoshka_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Matryoshka_6.jpg)
 
 # 多说几句
 

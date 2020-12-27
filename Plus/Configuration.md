@@ -6,11 +6,11 @@
 
 - 第一种方法：打开 Loon 并点击下方 `配置` 栏，点击 `文本编辑` 即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Configuration_UI.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Configuration_UI.jpg)
 
 - 第二种方法：打开 Loon 后找到 `配置文件` 快捷方式，点击 `配置文件` 卡片即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Configuration_Module.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Configuration_Module.jpg)
 
   - 如果找不到 `配置文件` 快捷方式，请看下一步教程
   
@@ -18,12 +18,12 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 后找到 `快捷方式` ，点击 `快捷方式` 右侧所示区域
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Configuration_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Configuration_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 按住 `配置文件` 右侧所示区域，然后往上拖动
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Configuration_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Configuration_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 往上拖动至 `可见` 列表下即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Configuration_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Configuration_3.jpg)

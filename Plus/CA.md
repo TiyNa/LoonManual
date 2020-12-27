@@ -8,13 +8,13 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 记录如下图所示区域中显示的数字，记为 `1号证书`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Certificate_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Certificate_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开手机 **设置** >>> **通用** >>> **关于本机** >>> **证书信任设置**（此步骤不截图是因为懒癌发作，ios 13 系统以上都可以按照此步骤找到入口）
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 记录如下图所示区域中显示的数字，记为 `2号证书`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Certificate_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Certificate_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 对比 `1号证书` 和 `2号证书` 是否一致
 
@@ -28,7 +28,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 找到与用户的 `1号证书` 数字相同的证书，点击右侧按钮使 `灰色按钮` 变成`绿色按钮` 即可完成**信任证书**操作
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/mitm_8.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/mitm_8.jpg)
 
 ## 重新安装证书
 
@@ -36,47 +36,47 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `移除描述文件` 并输入密码
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Certificate_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Certificate_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `移除` 
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Certificate_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Certificate_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 然后打开 Loon 并点击下方 `配置` 栏，点击 `证书管理`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Certificate_UI.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Certificate_UI.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `生成新的CA证书`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/mitm_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/mitm_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `安装CA证书`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/mitm_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/mitm_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在跳转出来的页面中点击 `允许`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/mitm_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/mitm_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开手机设置并点击 `已下载描述文件`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/mitm_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/mitm_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `安装` 后，出现验证的步骤，请用户自行输入密码验证
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/mitm_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/mitm_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 回到手机设置并点击 `通用` ，然后点击 `关于本机`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/mitm_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/mitm_6.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `证书信任设置`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/mitm_7.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/mitm_7.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击按钮使 `灰色按钮` 变成`绿色按钮` 即可完成操作
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/mitm_8.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/mitm_8.jpg)
 
 多说几句
 

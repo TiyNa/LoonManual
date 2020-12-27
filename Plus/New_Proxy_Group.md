@@ -1,4 +1,4 @@
-# 手动添加一个策略组
+s# 手动添加一个策略组
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 请注意，此教程添加的是一个子策略组，绝不会是一个母策略组，该子策略组可以通过
 
@@ -12,11 +12,11 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `策略组`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Group.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击下图所示区域（+）
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Proxy_Group_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Proxy_Group_2.jpg)
 
 ## 后续操作请跳转教程
 

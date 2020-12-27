@@ -37,7 +37,7 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 如下图中的用户发起对 `www.google.com` 的一个访问请求中
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Ruld_Example.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Ruld_Example.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `策略` 栏中， `Proxy` 代表策略， `[隧道]香港01#GZCM` 代表代理节点
 

@@ -16,37 +16,37 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `本地脚本`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击需要修改的脚本，**此处以 获取京东Cookie 脚本为例**
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_1_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_1_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击需要修改的设置栏右侧区域即可修改此栏信息
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_1_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_1_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 完成设置后点击 `保存` 即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_1_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_1_3.jpg)
 
 ## 修改脚本类型为 cron 的别名、表达式以及脚本位置
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `本地脚本`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Local_Script.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Local_Script.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击需要修改的脚本，**此处以 京东多合一签到 脚本为例**
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_2_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_2_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击需要修改的设置栏右侧区域即可修改此栏信息
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_2_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_2_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 完成设置后点击 `保存` 即可
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/JaveScript_Modify_2_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/JaveScript_Modify_2_3.jpg)
 
 # 多说几句
 

@@ -10,27 +10,27 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `订阅脚本`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Script.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击如图所示区域（+）
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Script_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `URL` 栏粘贴用户获取的正确的 URL 链接，如若用户不清楚如何获取，请点击 [这里](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/Remote_Script_Format.md) 跳转到 `订阅脚本中对 URL 的要求及内容格式要求` 教程并查看第四步操作
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Script_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在 `别名` 栏填入订阅脚本的命名，按用户个人喜爱命名
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Script_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击 `保存`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Script_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击如图所示区域，更新 `订阅脚本` 即可完成操作
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Remote_Script_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Remote_Script_5.jpg)
 
 # 多说几句
 

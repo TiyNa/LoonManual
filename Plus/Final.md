@@ -6,15 +6,15 @@
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon 并点击下方 `配置` 栏，点击 `示例`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Example.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Example.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 找到 `[Rule]`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Example_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Example_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 找到 `[Rule]` 下最后一行代码 `FINAL,Final`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Example_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Example_2.jpg)
 
 ## 对 `FINAL,Final` 的理解
 
@@ -52,7 +52,7 @@
 
 当配置中写着 `FINAL,Final` 时，通过 `子母策略组之间的嵌套` 可以做出以下类型的 `母策略组`
 
-![image](https://raw.githubusercontent.com/chiupam/tutorial-image/master/Loon/Plus/Final.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/Final.jpg)
 
 如上图所示，用户需要手动预设出现 `漏网之鱼` 时走的策略，如果用户选择
 
