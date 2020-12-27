@@ -32,8 +32,6 @@ hostname = *.example.com,*.sample.com
 
 ## 三、URL 实例文件示范
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 直接点击下方的地址，查看 URL 的内容的正确格式写法
-
 ```
 [Rule]
 DOMAIN-KEYWORD,baidu,DIRECT
