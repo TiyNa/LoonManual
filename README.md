@@ -6,7 +6,7 @@
 
 ### 语言
 
-|[中文](https://github.com/TiyNa/LoonManual/blob/main/README.md)|[English](https://github.com/TiyNa/LoonManual/blob/main/README_EN.md)|
+[中文](https://github.com/TiyNa/LoonManual/blob/main/README.md)    [English](https://github.com/TiyNa/LoonManual/blob/main/README_EN.md)
 
 ### 免责声明
 
