@@ -4,7 +4,7 @@
 
   - [TestFlight(262)](https://t.me/LoonNews/426)：[general]添加ssid-trigger参数，用于指定SSID下流量模式切换，参考样例如下： ssid-trigger="default":rule,"cellular":rule,"SYSLINY-Pro":direct,"TPLINK":proxy （default表示默认，cellular表示蜂窝，目前支持三种值：rule，direct，proxy）
 
-- 小白理解：一种比[设置 ssid 内置策略组方案](https://github.com/TiyNa/tutorial/blob/master/Loon/Plus/ssid.md)和[设置自动脚本方案](https://t.me/cool_scripts/141)都更为快捷的ssid策略
+- 小白理解：一种比[设置 ssid 内置策略组方案](https://github.com/TiyNa/LoonManual/blob/main/Plus/ssid.md)和[设置自动脚本方案](https://t.me/cool_scripts/141)都更为快捷的ssid策略
 
 ## 注意
 
@@ -12,7 +12,7 @@
 
 ## 其他方法
 
-- [内置 ssid 策略组的设置](https://github.com/TiyNa/tutorial/blob/master/Loon/Plus/ssid.md)
+- [内置 ssid 策略组的设置](https://github.com/TiyNa/LoonManual/blob/main/Plus/ssid.md)
 
 - [进阶操作 —— SSID 策略组嵌套教程](https://github.com/ArriettyQAQ/loon_tutorial)
 
