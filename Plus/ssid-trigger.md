@@ -30,27 +30,27 @@ ssid-trigger="default":rule,"cellular":rule,"SSID_1":direct
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 打开 Loon，点击下方 `配置` 栏
 
-![image](https://raw.githubusercontent.com/TiyNa/tutorial-image/master/Loon/Plus/ssid-trigger_1.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid-trigger_1.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击文本配置
 
-![image](https://raw.githubusercontent.com/TiyNa/tutorial-image/master/Loon/Plus/ssid-trigger_2.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid-trigger_2.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 找到 `[general]` 配置栏
 
-![image](https://raw.githubusercontent.com/TiyNa/tutorial-image/master/Loon/Plus/ssid-trigger_3.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid-trigger_3.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 在其下面寻找合适的行粘贴第一步时复制的代码
 
-![image](https://raw.githubusercontent.com/TiyNa/tutorial-image/master/Loon/Plus/ssid-trigger_4.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid-trigger_4.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 修改 `SSID_1` 成用户已扶墙路由器 SSID 
 
-![image](https://raw.githubusercontent.com/TiyNa/tutorial-image/master/Loon/Plus/ssid-trigger_5.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid-trigger_5.jpg)
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 点击右上角的 `完成` 按钮即可
 
-![image](https://raw.githubusercontent.com/TiyNa/tutorial-image/master/Loon/Plus/ssid-trigger_6.jpg)
+![image](https://raw.githubusercontent.com/TiyNa/LoonManualimg/main/Plus/ssid-trigger_6.jpg)
 
 ## 多说几句
 
