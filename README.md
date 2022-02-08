@@ -38,7 +38,7 @@
 
 ## 跳转至对应教程的使用说明
 
-- [Frist](https://github.com/TiyNa/LoonManual/blob/main/First/README.md)
+- [First](https://github.com/TiyNa/LoonManual/blob/main/First/README.md)
 
 - [Plus](https://github.com/TiyNa/LoonManual/blob/main/Plus/README.md)
 
